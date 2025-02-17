@@ -1,0 +1,14 @@
+D:\csharp\KrNumber3\KrNumber3\bin\Debug\net9.0\KrNumber3.exe
+D:\csharp\KrNumber3\KrNumber3\bin\Debug\net9.0\KrNumber3.deps.json
+D:\csharp\KrNumber3\KrNumber3\bin\Debug\net9.0\KrNumber3.runtimeconfig.json
+D:\csharp\KrNumber3\KrNumber3\bin\Debug\net9.0\KrNumber3.dll
+D:\csharp\KrNumber3\KrNumber3\bin\Debug\net9.0\KrNumber3.pdb
+D:\csharp\KrNumber3\KrNumber3\obj\Debug\net9.0\KrNumber3.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\KrNumber3\KrNumber3\obj\Debug\net9.0\KrNumber3.AssemblyInfoInputs.cache
+D:\csharp\KrNumber3\KrNumber3\obj\Debug\net9.0\KrNumber3.AssemblyInfo.cs
+D:\csharp\KrNumber3\KrNumber3\obj\Debug\net9.0\KrNumber3.csproj.CoreCompileInputs.cache
+D:\csharp\KrNumber3\KrNumber3\obj\Debug\net9.0\KrNumber3.dll
+D:\csharp\KrNumber3\KrNumber3\obj\Debug\net9.0\refint\KrNumber3.dll
+D:\csharp\KrNumber3\KrNumber3\obj\Debug\net9.0\KrNumber3.pdb
+D:\csharp\KrNumber3\KrNumber3\obj\Debug\net9.0\KrNumber3.genruntimeconfig.cache
+D:\csharp\KrNumber3\KrNumber3\obj\Debug\net9.0\ref\KrNumber3.dll

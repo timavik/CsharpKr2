@@ -1,0 +1,14 @@
+D:\csharp\KrNumber2\KrNumber2\bin\Debug\net9.0\KrNumber2.exe
+D:\csharp\KrNumber2\KrNumber2\bin\Debug\net9.0\KrNumber2.deps.json
+D:\csharp\KrNumber2\KrNumber2\bin\Debug\net9.0\KrNumber2.runtimeconfig.json
+D:\csharp\KrNumber2\KrNumber2\bin\Debug\net9.0\KrNumber2.dll
+D:\csharp\KrNumber2\KrNumber2\bin\Debug\net9.0\KrNumber2.pdb
+D:\csharp\KrNumber2\KrNumber2\obj\Debug\net9.0\KrNumber2.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\KrNumber2\KrNumber2\obj\Debug\net9.0\KrNumber2.AssemblyInfoInputs.cache
+D:\csharp\KrNumber2\KrNumber2\obj\Debug\net9.0\KrNumber2.AssemblyInfo.cs
+D:\csharp\KrNumber2\KrNumber2\obj\Debug\net9.0\KrNumber2.csproj.CoreCompileInputs.cache
+D:\csharp\KrNumber2\KrNumber2\obj\Debug\net9.0\KrNumber2.dll
+D:\csharp\KrNumber2\KrNumber2\obj\Debug\net9.0\refint\KrNumber2.dll
+D:\csharp\KrNumber2\KrNumber2\obj\Debug\net9.0\KrNumber2.pdb
+D:\csharp\KrNumber2\KrNumber2\obj\Debug\net9.0\KrNumber2.genruntimeconfig.cache
+D:\csharp\KrNumber2\KrNumber2\obj\Debug\net9.0\ref\KrNumber2.dll
